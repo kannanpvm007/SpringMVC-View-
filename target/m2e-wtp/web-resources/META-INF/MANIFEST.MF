@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Layout
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Number: 
+Built-By: lenovo
+Specification-Title: sample_maven
+Implementation-Vendor-Id: com.ast
+Build-Time: 2019-11-11 04:44 UTC
+Organisation: My Organisation
+Build-Jdk: 1.8.0_191
+Specification-Version: 0.0
+Created-By: Maven Integration for Eclipse
+
