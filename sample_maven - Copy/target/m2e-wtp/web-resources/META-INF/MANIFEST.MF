@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Layout
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Number: 
+Built-By: ASTLAP10
+Specification-Title: sample_maven
+Implementation-Vendor-Id: com.ast
+Build-Time: 2018-09-24 06:11 UTC
+Organisation: My Organisation
+Build-Jdk: 1.8.0_161
+Specification-Version: 0.0
+Created-By: Maven Integration for Eclipse
+
