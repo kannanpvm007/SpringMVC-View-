@@ -8,7 +8,7 @@
 <properties>
 		<endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<springframework.version>4.3.0.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 		<spring.security.version>4.2.3.RELEASE</spring.security.version>
 		<hibernate.version>4.3.10.Final</hibernate.version>
 		<postgres.version>9.1-901.jdbc4</postgres.version>
